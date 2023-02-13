@@ -38,5 +38,7 @@ It contains link to my all 45 Web Development Projects
 34. werewolf-navbar - https://raj03kumar.github.io/werewolf-navbar 
 35. digital-clock - https://raj03kumar.github.io/digital-clock 
 36. automatic-carousel - https://raj03kumar.github.io/automatic-carousel 
-37. filter-gallery - 
-38. filter-search - 
+37. filter-gallery - https://raj03kumar.github.io/filter-gallery/
+38. filter-search - https://raj03kumar.github.io/filter-search/
+39.
+40.
